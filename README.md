@@ -1,4 +1,4 @@
-Simple options/configurations to do persistance in java
+Simple options/configurations to do persistence in java
 
 Resources:
   * To understand JPA: https://en.wikibooks.org/wiki/Java_Persistence
